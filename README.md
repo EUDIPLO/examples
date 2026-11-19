@@ -9,8 +9,8 @@ Example services that show how to integrate with [EUDIPLO](https://github.com/EU
 
 The contracts these services implement are specified in the EUDIPLO documentation:
 
-- [Webhooks](https://eudiplo.dev/docs/reference/webhooks) and the [attribute provider API](https://eudiplo.dev/docs/reference/attribute-provider-api)
-- [HTTP provider API](https://eudiplo.dev/docs/reference/kms-config#http-provider-api) of the KMS
+- [Webhooks](https://docs.eudiplo.dev/reference/webhooks) and the [attribute provider API](https://docs.eudiplo.dev/reference/attribute-provider-api)
+- [HTTP provider API](https://docs.eudiplo.dev/reference/kms-config#http-provider-api) of the KMS
 
 If the documentation and an example disagree, the documentation is right.
 

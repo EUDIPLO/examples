@@ -1,0 +1,8 @@
+packages:
+  - webhook
+  - kms-reference
+
+allowBuilds:
+  esbuild: true
+  sharp: true
+  workerd: true
